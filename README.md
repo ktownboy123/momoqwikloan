@@ -1,0 +1,2 @@
+# momoqwikloan
+my static website
